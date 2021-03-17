@@ -1,0 +1,10 @@
+{ "applinks": {
+   "apps": [],
+   "details": [ {
+        "appID": "XUDFMSC7GH.com.gddlkj.jmybs",
+        "paths": [ "/wwdc/news/", "/videos/wwdc/2015*", "/qq_conn/101931893/*" ]
+      }, {
+        "appID":"XUDFMSC7GH.com.gddlkj.jmybs",
+        "paths": [ "*", "/qq_conn/101931893/*" ]
+      } ] }
+}
